@@ -11,7 +11,7 @@
   <i>“Don't complain about the tools you don't have. Master the ones you do.”</i>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thapavikas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>                                                      
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
