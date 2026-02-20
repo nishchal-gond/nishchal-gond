@@ -36,7 +36,7 @@
 <!-- 🏆 GitHub Trophies (Forked Service) -->
 <p align="center">
   <a href="https://github.com/screw-hand/github-profile-trophy">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Rio2802&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=nishchal-gond&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -46,11 +46,11 @@
 ### 📈 GitHub Stats
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rio2802&show_icons=true&theme=radical&cache_seconds=1800" alt="Rio2802's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nishchal-gond&show_icons=true&theme=radical&cache_seconds=1800" alt="nishchal-gond's GitHub Stats" />
 
   <br/>
 
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" alt="Rio2802's Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" alt="nishchal-gond's Top Languages" />
 
 </div>
 
