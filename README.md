@@ -50,7 +50,7 @@
 
   <br/>
 
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" alt="nishchal-gond's Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishchal-gond&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" alt="nishchal-gond's Top Languages" />
 
 </div>
 
