@@ -40,7 +40,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 📈 GitHub Stats
@@ -62,22 +61,22 @@
 
 | 🚀 Project | 📝 Description | 💻 Stack |
 |--------|------------|------|
-| 🚘 **[SmartRide Manager](https://github.com/Rio2802/SmartRideManager)** | Bike maintenance tracking app | React Native, Firebase |
-| 🧠 **[J.A.D.E](https://github.com/Rio2802/J.A.D.E)** | AI assistant for automation | Python |
-| 🔗 **[IPFS IMG Upload](https://github.com/Rio2802/IPFS_IMG_upload)** | Secure image uploader using IPFS | JavaScript, Web3 |
-| 🤖 **[EDUBot](https://github.com/Rio2802/EDUBot)** | RAG chatbot for learning | Python |
-| 📄 **[Chat With PDF](https://github.com/Rio2802/ChatPDF)** ⭐ | Chat with PDFs using FAISS + Claude | Amazon Bedrock, LangChain, Python, Docker, S3 |
-| 🌐 **[Portfolio](https://github.com/Rio2802/Portfolio)** | My personal website | HTML, CSS, JS |
+| 🚘 **[SmartRide Manager](https://github.com/nishchal-gond/SmartRideManager)** | Bike maintenance tracking app | React Native, Firebase |
+| 🧠 **[J.A.D.E](https://github.com/nishchal-gond/J.A.D.E)** | AI assistant for automation | Python |
+| 🔗 **[IPFS IMG Upload](https://github.com/nishchal-gond/IPFS_IMG_upload)** | Secure image uploader using IPFS | JavaScript, Web3 |
+| 🤖 **[EDUBot](https://github.com/nishchal-gond/EDUBot)** | RAG chatbot for learning | Python |
+| 📄 **[Chat With PDF](https://github.com/nishchal-gond/ChatPDF)** ⭐ | Chat with PDFs using FAISS + Claude | Amazon Bedrock, LangChain, Python, Docker, S3 |
+| 🌐 **[Portfolio](https://github.com/nishchal-gond/Portfolio)** | My personal website | HTML, CSS, JS |
 
 </div>
 
 ---
 
 ### 🧩 Upcoming Repositories
-#### 🔹 [mini-react-components](https://github.com/Rio2802/mini-react-components)
+#### 🔹 [mini-react-components](https://github.com/nishchal-gond/mini-react-components)
 > Reusable, minimal, and beautiful React UI components using Tailwind CSS and Framer Motion.
 
-#### 🔹 [python-utils](https://github.com/Rio2802/python-utils)
+#### 🔹 [python-utils](https://github.com/nishchal-gond/python-utils)
 > Handy Python scripts for automation, APIs, and productivity — lightweight and effective.
 
 ---
@@ -94,7 +93,7 @@
   <a href="https://linkedin.com/in/nishchal-g-741a64107/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Rio2802" target="_blank">
+  <a href="https://github.com/nishchal-gond" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.facebook.com" target="_blank">
@@ -103,12 +102,10 @@
   <a href="https://www.instagram.com" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://hashnode.com/@Rio2802" target="_blank">
+  <a href="https://hashnode.com/@nishchal-gond" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
   </a>
 </p>
-
-
 
 ---
 
