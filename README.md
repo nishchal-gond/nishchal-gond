@@ -9,9 +9,17 @@
 
 <p align="center">
   <i>“Don't complain about the tools you don't have. Master the ones you do.”</i>
-</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/nishchal-gond?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/nishchal-gond?label=Stars&style=flat&color=0e75b6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Strong-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-Learning-000000?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-Improving-success" />
 </p>                                                      
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
