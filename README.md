@@ -10,20 +10,24 @@
 <p align="center">
   <i>“Don't complain about the tools you don't have. Master the ones you do.”</i>
 <p align="center">
-  <!-- Core GitHub Stats -->
-  <img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/nishchal-gond?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/nishchal-gond?label=Stars&style=flat&color=0e75b6" />
+  <!-- Core Stats -->
+  <img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=Profile%20Views&color=00bcd4&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/nishchal-gond?label=Followers&style=for-the-badge&color=00bcd4" />
+  <img src="https://img.shields.io/github/stars/nishchal-gond?label=Stars&style=for-the-badge&color=00bcd4" />
+</p>
 
-  <!-- Developer Identity -->
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Lambda-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLMs-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Native%20Apps-0e75b6?style=flat" />
+<p align="center">
+  <!-- Tech Identity -->
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Lambda-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLMs-1f6feb?style=for-the-badge" />
+</p>
 
-  <!-- Activity -->
-  <img src="https://img.shields.io/badge/Consistency-1%2B%20Commit%2FDay-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-0e75b6?style=flat" />
+<p align="center">
+  <!-- Focus & Consistency -->
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Native%20Apps-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Consistency-1%2B%20Commit%2FDay-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-6f42c1?style=for-the-badge" />
 </p>                                                      
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
