@@ -10,16 +10,20 @@
 <p align="center">
   <i>“Don't complain about the tools you don't have. Master the ones you do.”</i>
 <p align="center">
+  <!-- Core GitHub Stats -->
   <img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/nishchal-gond?label=Followers&style=flat&color=0e75b6" />
   <img src="https://img.shields.io/github/stars/nishchal-gond?label=Stars&style=flat&color=0e75b6" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Strong-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-Learning-000000?logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-Improving-success" />
+  <!-- Developer Identity -->
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Lambda-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLMs-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Native%20Apps-0e75b6?style=flat" />
+
+  <!-- Activity -->
+  <img src="https://img.shields.io/badge/Consistency-1%2B%20Commit%2FDay-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-0e75b6?style=flat" />
 </p>                                                      
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
