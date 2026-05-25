@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://drive.google.com/uc?export=view&id=1txmGwduRyanTvqF3JobsLI7skBQM2Ti9" 
+    src="https://drive.google.com/uc?export=view&id=1B4WA4pFolZxHSNskc_cPs22p2qFAHbpQ" 
     alt="Banner" 
     width="100%" 
   />
