@@ -1,60 +1,129 @@
-<!-- 🏞️ Profile Banner -->
+<!-- ========================= HEADER / BANNER ========================= -->
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a3c73d8ca61ba83b9d6f67e0a7f98752cda3e2368659b3ab457c6b66abf8a4f7/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966" alt="Profile Banner" width="100%" />
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1txmGwduRyanTvqF3JobsLI7skBQM2Ti9" 
+    alt="Banner" 
+    width="100%" 
+  />
 </p>
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#00bcd4;">Nishchal Gond</span></h1>
-<h3 align="center">💻 Software Engineer (Java & Backend) | ☁️ Cloud-Native Applications | 🤖 AI-Assisted Systems
+<h1 align="center">Hi 👋 I'm Nishchal Gond</h1>
+
+<h3 align="center">
+Software Engineer | Backend & AI Systems | Cloud & Scalable Applications
 </h3>
 
 <p align="center">
-  <i>“Don't complain about the tools you don't have. Master the ones you do.”</i>
-<p align="center">
-  <!-- Core Stats -->
-  <img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/nishchal-gond?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/nishchal-gond?label=Stars&style=flat&color=0e75b6" />
-</p>
-
-<p align="center">
-  <!-- Tech -->
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Lambda-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/AI-RAG%20%7C%20LLMs-0e75b6?style=flat" />
-</p>
-
-<p align="center">
-  <!-- Focus & Consistency -->
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Native%20Apps-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/Consistency-1%2B%20Commit%2FDay-0e75b6?style=flat" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active-0e75b6?style=flat" />
-</p>                                                      
-<!-- 🐍 GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
-
-### 🌟 Quick Info
-- 🔭 I’m currently working on **SmartRide Manager** (React Native + Expo)  
-- 🌱 Learning **Next.js, AWS Lambda, and FastAPI**  
-- 🎯 Goal: To build smarter, faster, and more secure apps  
-- 🧠 Interested in **AI-Driven Web Systems, Blockchain, and Cloud Computing**  
-
----
-
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,tailwind,django,flask,mysql,mongodb,aws,git,github,vscode,linux" />
+  <i>
+    Building scalable systems, AI-powered applications, and clean developer experiences.
+  </i>
 </p>
 
 ---
 
-<!-- 🏆 GitHub Trophies (Forked Service) -->
+# 👨‍💻 About Me
+
+I’m a Software Engineer with experience across frontend, backend, AI systems, and cloud-native applications.
+
+I enjoy building scalable and maintainable software with a strong focus on:
+
+- Clean architecture
+- Efficient backend systems
+- Performance optimization
+- Developer experience
+- End-to-end product ownership
+
+I work across the stack — from APIs and databases to frontend interfaces and deployment pipelines.
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Frontend
+
 <p align="center">
-  <a href="https://github.com/screw-hand/github-profile-trophy">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=nishchal-gond&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
+
+## ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,django,flask,mysql,mongodb,postgres" />
+</p>
+
+## ☁️ Cloud / DevOps / Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
+</p>
+
+## 🤖 AI / LLM Engineering
+
+<div align="center">
+
+LangChain • LlamaIndex • FAISS • RAG Pipelines • Amazon Bedrock • OpenAI APIs
+
+</div>
+
+---
+
+# 🧠 Engineering Focus
+
+I focus on building production-ready applications with scalability and maintainability in mind.
+
+### Things I care about:
+
+- Writing clean and testable code
+- Scalable frontend architectures
+- Reliable backend APIs
+- AI-assisted workflows
+- System design fundamentals
+- Performance optimization
+- Real-world product thinking
+
+---
+
+# ⚙️ How I Build End-to-End Features
+
+### My development workflow:
+
+1. Understand requirements & user flows
+2. Design APIs & data models
+3. Implement backend services
+4. Build responsive frontend interfaces
+5. Handle edge cases & failure states
+6. Optimize performance & scalability
+7. Deploy & monitor applications
+
+---
+
+# 🔧 Backend Experience
+
+- REST API development using Node.js / Express
+- Backend systems using Java & Python
+- Authentication & authorization
+- SQL & NoSQL database design
+- Cloud-native architectures
+- AI integrations & automation systems
+- Understanding caching, failures, and scaling basics
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 💻 Stack |
+|------------|----------------|----------|
+| 🚘 SmartRide Manager | Bike maintenance tracking app | React Native, Firebase |
+| 🤖 J.A.D.E | AI assistant for automation | Python |
+| 📄 Chat With PDF | RAG PDF chatbot using FAISS + Claude | Bedrock, LangChain |
+| 🔗 IPFS IMG Upload | Secure image uploader using IPFS | JavaScript, Web3 |
+| 🧠 EDUBot | AI-powered learning chatbot | Python |
+| 🌐 Portfolio | Personal developer portfolio | HTML, CSS, JS |
+
+</div>
 
 ---
 
@@ -71,60 +140,79 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="snake animation"
+  />
+</p>
+
+---
+
+# 🎯 Currently Learning
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 💻 Stack |
-|--------|------------|------|
-| 🚘 **[SmartRide Manager](https://github.com/nishchal-gond/SmartRideManager)** | Bike maintenance tracking app | React Native, Firebase |
-| 🧠 **[J.A.D.E](https://github.com/nishchal-gond/J.A.D.E)** | AI assistant for automation | Python |
-| 🔗 **[IPFS IMG Upload](https://github.com/nishchal-gond/IPFS_IMG_upload)** | Secure image uploader using IPFS | JavaScript, Web3 |
-| 🤖 **[EDUBot](https://github.com/nishchal-gond/EDUBot)** | RAG chatbot for learning | Python |
-| 📄 **[Chat With PDF](https://github.com/nishchal-gond/ChatPDF)** ⭐ | Chat with PDFs using FAISS + Claude | Amazon Bedrock, LangChain, Python, Docker, S3 |
-| 🌐 **[Portfolio](https://github.com/nishchal-gond/Portfolio)** | My personal website | HTML, CSS, JS |
+Scalable frontend architecture  
+System design for engineers  
+Docker & CI/CD pipelines  
+Advanced TypeScript patterns  
+AI agent systems
 
 </div>
 
 ---
 
-### 🧩 Upcoming Repositories
-#### 🔹 [mini-react-components](https://github.com/nishchal-gond/mini-react-components)
-> Reusable, minimal, and beautiful React UI components using Tailwind CSS and Framer Motion.
+# 💬 Ask Me About
 
-#### 🔹 [python-utils](https://github.com/nishchal-gond/python-utils)
-> Handy Python scripts for automation, APIs, and productivity — lightweight and effective.
+<div align="center">
+
+React & Next.js  
+Backend engineering  
+AI/LLM systems  
+Cloud-native applications  
+Frontend performance  
+API architecture  
+Clean code practices
+
+</div>
 
 ---
 
-### 🔥 Consistency Goal
-> ✅ **1+ Commit/Day** — Documentation, bug fix, or refactor.  
-> 🏗️ Focus areas: Repositories, Commits, Multi-Language Skills.
-
----
-
-### 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nishchal-g-741a64107/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/nishchal-g-741a64107">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/nishchal-gond" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <a href="https://github.com/nishchal-gond">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+
+  <a href="https://hashnode.com/@nishchal-gond">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://hashnode.com/@nishchal-gond" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
+# 🔥 Fun Fact
+
+<div align="center">
+
+> Dark mode isn’t a theme — it’s a lifestyle 😎
+
+</div>
+
+---
+
 <p align="center">
-  <b>✨ “Code. Learn. Repeat.” ✨</b>
+  <b>✨ Code • Build • Scale • Repeat ✨</b>
 </p>
