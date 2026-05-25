@@ -213,6 +213,6 @@ Clean code practices
 
 ---
 
-<p align="center">
-  <b>✨ Code • Build • Scale • Repeat ✨</b>
+<p align="right">
+  <b>I don’t always write bugs… but when I do, they become production features 🚀</b>
 </p>
