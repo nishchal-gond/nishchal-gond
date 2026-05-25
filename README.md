@@ -140,8 +140,6 @@ I focus on building production-ready applications with scalability and maintaina
 
 ---
 
-# 🐍 Contribution Graph
-
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
@@ -153,7 +151,7 @@ I focus on building production-ready applications with scalability and maintaina
 
 # 🎯 Currently Learning
 
-<div align="center">
+<div align="left">
 
 Scalable frontend architecture  
 System design for engineers  
@@ -167,7 +165,7 @@ AI agent systems
 
 # 💬 Ask Me About
 
-<div align="center">
+<div align="left">
 
 React & Next.js  
 Backend engineering  
@@ -183,7 +181,7 @@ Clean code practices
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/nishchal-g-741a64107">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -205,14 +203,14 @@ Clean code practices
 
 # 🔥 Fun Fact
 
-<div align="center">
+<div align="left">
 
-> Dark mode isn’t a theme — it’s a lifestyle 😎
+> 90% coding, 10% wondering why it worked 🤝
 
 </div>
 
 ---
 
-<p align="right">
-  <b>I don’t always write bugs… but when I do, they become production features 🚀</b>
+<p align="left">
+  <b>✨ Code • Build • Scale • Repeat ✨</b>
 </p>
