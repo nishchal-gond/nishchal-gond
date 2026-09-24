@@ -137,14 +137,18 @@ I'm an **AI & automation engineer** based in **Dubai** 🇦🇪. I design and sh
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[RE Scraper](https://github.com/nishchal-gond/re-scraper)** | Chrome MV3 extension that scrapes multi-page real estate listings into structured Excel / CSV / JSON | JavaScript, Chrome Extensions |
-| **[LuxRestoreAI](https://github.com/nishchal-gond/Lux-Property)** | AI pipeline for watermark detection and image restoration | Python, PyTorch, Docker |
-| **[Listing Photo Processor](https://github.com/nishchal-gond/watermark)** | Single-page browser tool for preparing property listing images | HTML, CSS, JavaScript |
-| **[OREOCHAIN](https://github.com/nishchal-gond/OREOCHAIN)** | Decentralized document storage with on-chain hashes for tamper-proof verification | JavaScript, Ethereum, IPFS |
-| **[SmartRide Manager](https://github.com/nishchal-gond/SmartRideManager)** | Bike maintenance tracking and expense management, web + mobile | React, Vite, Flutter |
-| **[Portfolio](https://nishchalgond.vercel.app)** | Personal developer portfolio | HTML, CSS, JS |
+| Project | What it does | Stack | Stars |
+|---|---|---|---|
+| **[ChatPDF](https://github.com/nishchal-gond/ChatPDF)** | Chat with your PDFs: RAG with Titan embeddings for retrieval and Claude for answers | Python, Amazon Bedrock, LangChain, S3, Docker | ![stars](https://img.shields.io/github/stars/nishchal-gond/ChatPDF?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+| **[J.A.D.E](https://github.com/nishchal-gond/J.A.D.E)** | Conversational AI assistant built on the Google Gemini API | Python, Gemini API, HTML/CSS | ![stars](https://img.shields.io/github/stars/nishchal-gond/J.A.D.E?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+| **[EduBot](https://github.com/nishchal-gond/Edu_Bot)** | RAG chatbot for interactive, AI-powered learning | Python, RAG, LLMs | ![stars](https://img.shields.io/github/stars/nishchal-gond/Edu_Bot?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+| **[LuxRestoreAI](https://github.com/nishchal-gond/Lux-Property)** | AI pipeline for watermark detection and image restoration | Python, PyTorch, Docker | ![stars](https://img.shields.io/github/stars/nishchal-gond/Lux-Property?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+| **[RE Scraper](https://github.com/nishchal-gond/re-scraper)** | Chrome MV3 extension that scrapes multi-page real estate listings into structured Excel / CSV / JSON | JavaScript, Chrome Extensions | ![stars](https://img.shields.io/github/stars/nishchal-gond/re-scraper?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+| **[OREOCHAIN](https://github.com/nishchal-gond/OREOCHAIN)** | Decentralized document storage with on-chain hashes for tamper-proof verification | JavaScript, Ethereum, IPFS | ![stars](https://img.shields.io/github/stars/nishchal-gond/OREOCHAIN?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+| **[SmartRide Manager](https://github.com/nishchal-gond/SmartRideManager)** | Bike maintenance tracking and expense management, web + mobile | React, Vite, Flutter | ![stars](https://img.shields.io/github/stars/nishchal-gond/SmartRideManager?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+| **[Personalized Chatbot](https://github.com/nishchal-gond/Personalized_Chatbot)** | ChatGPT-style client on the OpenAI API that can draw on your own GitHub repos | JavaScript, OpenAI API | ![stars](https://img.shields.io/github/stars/nishchal-gond/Personalized_Chatbot?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
+
+<sub>More on my <a href="https://github.com/nishchal-gond?tab=repositories">repositories page</a> and <a href="https://nishchalgond.vercel.app">portfolio</a>.</sub>
 
 **Also shipped (private work):** an AI voice agent that calls back inbound leads · automated personalized email outreach with a local LLM · WhatsApp monitoring and document-extraction extensions · data cleaning & deduplication engines · scheduled content and reporting automations.
 
