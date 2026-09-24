@@ -6,10 +6,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchal-g-741a64107)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://nishchalgond.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchal-gond)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishchal-gond)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nishchal-gond)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rio.zen7/)
 
 <br/>
 
@@ -27,19 +28,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:8BE9FD&height=3&width=800" />
 
-> *Somewhere between the Shire and the Matrix, with a web-shooter in one hand, I write backend systems.*
+> *Somewhere between the Shire and the Matrix, with a web-shooter in one hand, I build systems that do the work for you.*
 
-I'm a Software Engineer working across frontend, backend, AI systems, and cloud-native applications. I enjoy building scalable, maintainable software with a strong focus on clean architecture and end-to-end product ownership — from APIs and databases to frontend interfaces and deployment pipelines.
+I'm an **AI & automation engineer** based in **Dubai** 🇦🇪. I design and ship end-to-end systems: AI agents, voice agents, workflow automation, data pipelines and browser tooling, plus the backends and interfaces that hold them together. I care about software that runs reliably in production, not just in a demo.
 
 **Core focus areas**
 
 |||
 |---|---|
-| 🏗️ Clean Architecture | Fellowship-grade systems built to survive the journey |
-| ⚡ Backend Engineering | Reliable APIs, spun up faster than a web-shooter reload |
-| 🚀 Performance | Optimized like a system that's seen behind the code |
-| 🎨 Developer Experience | Tooling that makes the whole team swing a little easier |
-| 🔄 Product Ownership | Requirements → design → ship → monitor, start to Mordor |
+| 🤖 AI Agents & LLM Systems | RAG, tool-using agents and voice agents that hold up in production |
+| 🔄 Workflow Automation | Pipelines that take the manual work out, running on schedule like the Matrix |
+| 🗄️ Data Engineering | Cleaning, deduplicating and structuring messy real-world data |
+| ⚡ Backend & APIs | Reliable services, spun up faster than a web-shooter reload |
+| 🧩 Browser Tooling | Chrome extensions that scrape, monitor and automate the web |
+| 🔁 Product Ownership | Requirements → design → ship → monitor, start to Mordor |
 
 <br/>
 
@@ -119,42 +121,32 @@ I'm a Software Engineer working across frontend, backend, AI systems, and cloud-
 
 <br/>
 
-## 🧭 How I Build End-to-End Features
+## 🧭 How I Build
 
 ```text
-1. Understand requirements & user flows      → Read the map before the journey
-2. Design APIs & data models                 → Forge the ring, know its power
-3. Implement backend services                → Build the engine room
-4. Build responsive frontend interfaces      → Give it a face worth seeing
-5. Handle edge cases & failure states        → Expect an ambush at every gate
-6. Optimize performance & scalability        → Faster than a swing across the skyline
-7. Deploy & monitor applications             → Send it off, watch it fly
+1. Understand the problem & the people        → Read the map before the journey
+2. Design data models, APIs & workflows       → Forge the ring, know its power
+3. Build the engine: backend, AI, automation  → Build the engine room
+4. Add the interface people actually use      → Give it a face worth seeing
+5. Handle edge cases, retries & failures      → Expect an ambush at every gate
+6. Measure, optimize & scale                  → Faster than a swing across the skyline
+7. Deploy, monitor & iterate                  → Send it off, watch it fly
 ```
-
-<br/>
-
-## 🛠️ Backend Experience
-
-- REST API development using Node.js / Express
-- Backend systems using Java & Python
-- Authentication & authorization
-- SQL & NoSQL database design
-- Cloud-native architectures
-- AI integrations & automation systems
-- Caching, failure handling, and scaling fundamentals
 
 <br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **SmartRide Manager** | Bike maintenance tracking app | React Native, Firebase |
-| **J.A.D.E** | AI assistant for automation | Python |
-| **Chat With PDF** | RAG PDF chatbot using FAISS + Claude | Bedrock, LangChain |
-| **IPFS IMG Upload** | Secure image uploader using IPFS | JavaScript, Web3 |
-| **EDUBot** | AI-powered learning chatbot | Python |
-| **Portfolio** | Personal developer portfolio | HTML, CSS, JS |
+| **[RE Scraper](https://github.com/nishchal-gond/re-scraper)** | Chrome MV3 extension that scrapes multi-page real estate listings into structured Excel / CSV / JSON | JavaScript, Chrome Extensions |
+| **[LuxRestoreAI](https://github.com/nishchal-gond/Lux-Property)** | AI pipeline for watermark detection and image restoration | Python, PyTorch, Docker |
+| **[Listing Photo Processor](https://github.com/nishchal-gond/watermark)** | Single-page browser tool for preparing property listing images | HTML, CSS, JavaScript |
+| **[OREOCHAIN](https://github.com/nishchal-gond/OREOCHAIN)** | Decentralized document storage with on-chain hashes for tamper-proof verification | JavaScript, Ethereum, IPFS |
+| **[SmartRide Manager](https://github.com/nishchal-gond/SmartRideManager)** | Bike maintenance tracking and expense management, web + mobile | React, Vite, Flutter |
+| **[Portfolio](https://nishchalgond.vercel.app)** | Personal developer portfolio | HTML, CSS, JS |
+
+**Also shipped (private work):** an AI voice agent that calls back inbound leads · automated personalized email outreach with a local LLM · WhatsApp monitoring and document-extraction extensions · data cleaning & deduplication engines · scheduled content and reporting automations.
 
 <br/>
 
@@ -189,13 +181,13 @@ I'm a Software Engineer working across frontend, backend, AI systems, and cloud-
 
 ## 📡 Currently Learning
 
-`Scalable Frontend Architecture` `System Design` `Docker & CI/CD` `Advanced TypeScript` `AI Agent Systems`
+`Multi-Agent Systems` `LLM Evals & Observability` `Voice AI` `System Design` `MCP & Tool Calling` `Advanced TypeScript`
 
 <br/>
 
 ## 💬 Ask Me About
 
-`React & Next.js` `Backend Engineering` `AI/LLM Systems` `Cloud-Native Apps` `Frontend Performance` `API Architecture` `Clean Code Practices`
+`AI Agents` `Voice Agents` `RAG Pipelines` `Workflow Automation` `Chrome Extensions` `Data Cleaning & Deduplication` `Backend & APIs`
 
 <br/>
 
@@ -257,6 +249,6 @@ I'm a Software Engineer working across frontend, backend, AI systems, and cloud-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer" width="100%"/>
 
-<sub>✨ Code • Build • Scale • Repeat ✨</sub>
+<sub>✨ Code • Build • Automate • Repeat ✨</sub>
 
 </div>
