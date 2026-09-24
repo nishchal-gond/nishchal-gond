@@ -49,7 +49,7 @@ I'm a Software Engineer working across frontend, backend, AI systems, and cloud-
 
 **Core focus areas**
 
-
+|||
 |---|---|
 | 🏗️ Clean Architecture | Fellowship-grade systems built to survive the journey |
 | ⚡ Backend Engineering | Reliable APIs, spun up faster than a web-shooter reload |
