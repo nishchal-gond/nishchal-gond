@@ -2,23 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&animation=twinkling" width="100%"/>
 
-<table>
-<tr>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="avi-ascii.svg" alt="ASCII Portrait" width="380"/>
-
-</td>
-
-<td width="55%" align="center" valign="middle">
-
 <img src="intro-typing.svg" alt="Nishchal Gond - Software Engineer | Backend & AI Systems" width="620"/>
-
-</td>
-
-</tr>
-</table>
 
 <br/>
 
