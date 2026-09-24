@@ -45,37 +45,77 @@ I'm a Software Engineer working across frontend, backend, AI systems, and cloud-
 
 ## ⚡ Tech Stack
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:E62429&height=3&width=800" />
+
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="50%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,django,flask,mysql,mongodb,postgres&theme=dark" />
-
+<td align="center" width="170"><b>💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,java,js,ts&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" /></td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions,linux&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Easypanel-1E1E2E?style=flat-square&logo=docker&logoColor=white" />
 </td>
-<td valign="top" width="50%">
-
-**Cloud / DevOps / Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&theme=dark" />
-
-**AI / LLM Engineering**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square)
-![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
+</tr>
+<tr>
+<td align="center"><b>🧠 AI / LLM</b></td>
+<td>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Voice_AI-Retell-00FF9C?style=flat-square&labelColor=000000" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🔄 Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-2F2F2F?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧩 Browser</b></td>
+<td>
+<img src="https://img.shields.io/badge/Chrome_Extensions_(MV3)-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" />
+<img src="https://img.shields.io/badge/Web_Scraping-555555?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 AI Dev Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="24" />
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
