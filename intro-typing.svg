@@ -21,7 +21,7 @@
   <rect x="90" y="108" width="470" height="2" fill="#00FF9C" opacity="0.8"/>
 
   <!-- Role -->
-  <text x="325" y="141" text-anchor="middle" class="role">Software Engineer | Backend &amp; AI Systems</text>
+  <text x="325" y="141" text-anchor="middle" class="role">AI &amp; Automation Engineer | Agents &amp; Backends</text>
   <text x="325" y="169" text-anchor="middle" class="role">One does not simply ship untested code.</text>
   <text x="325" y="197" text-anchor="middle" class="role">With great backend comes great responsibility.</text>
 </svg>
