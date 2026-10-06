@@ -148,7 +148,7 @@ I'm an **AI & automation engineer** based in **Dubai** 🇦🇪. I design and sh
 | **[SmartRide Manager](https://github.com/nishchal-gond/SmartRideManager)** | Bike maintenance tracking and expense management, web + mobile | React, Vite, Flutter | ![stars](https://img.shields.io/github/stars/nishchal-gond/SmartRideManager?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
 | **[Personalized Chatbot](https://github.com/nishchal-gond/Personalized_Chatbot)** | ChatGPT-style client on the OpenAI API that can draw on your own GitHub repos | JavaScript, OpenAI API | ![stars](https://img.shields.io/github/stars/nishchal-gond/Personalized_Chatbot?style=flat-square&label=%E2%AD%90&color=FFD700&labelColor=000000) |
 
-<sub>More on my <a href="https://github.com/nishchal-gond?tab=repositories">repositories page</a> and <a href="https://nishchalgond.vercel.app">portfolio</a>.</sub>
+<sub>More on my <a href="https://github.com/nishchal-gond?tab=repositories">repositories page</a> and <a href="https://nishchal.is-a.dev/">portfolio</a>.</sub>
 
 **Also shipped (private work):** an AI voice agent that calls back inbound leads · automated personalized email outreach with a local LLM · WhatsApp monitoring and document-extraction extensions · data cleaning & deduplication engines · scheduled content and reporting automations.
 
