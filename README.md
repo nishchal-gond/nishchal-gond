@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://nishchalgond.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://nishchal.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchal-gond)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishchal-gond)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nishchal-gond)
@@ -175,7 +175,6 @@ I'm an **AI & automation engineer** based in **Dubai** 🇦🇪. I design and sh
 
 <div align="center">
 
-<a href="https://github.com/nishchal-gond"><img src="https://komarev.com/ghpvc/?username=nishchal-gond&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge" alt="Profile Views" /></a>
 <a href="https://github.com/nishchal-gond?tab=followers"><img src="https://img.shields.io/github/followers/nishchal-gond?label=FOLLOWERS&logo=github&style=for-the-badge&color=FFD700" alt="Followers" /></a>
 <a href="https://github.com/nishchal-gond?tab=repositories"><img src="https://img.shields.io/github/stars/nishchal-gond?affiliations=OWNER&label=TOTAL%20STARS&logo=github&style=for-the-badge&color=E62429" alt="Total Stars" /></a>
 <a href="https://github.com/nishchal-gond?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnishchal-gond&query=%24.public_repos&label=PUBLIC%20REPOS&logo=github&style=for-the-badge&color=8BE9FD" alt="Public Repos" /></a>
